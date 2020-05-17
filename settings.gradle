@@ -1,0 +1,2 @@
+rootProject.name='ThirdPartyLibDemo'
+include ':app'
